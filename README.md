@@ -16,7 +16,7 @@ Highscore(Sortieren, Hinzufügen bzw. Löschen):
 
 
 Das Spiel selbst:
-1. Enthält Npc's welche die gleichen Funktionen erledigen wie der Spieler selbst.
+1. Enthält Npc's welche die gleichen Funktionen erledigen können wie der Spieler.
 2. Minimap mit aktuellem Standort
 3. Oben Links: Anzeige der vorhandenen Munition etc
 ![Screenshot (248)](https://user-images.githubusercontent.com/50133435/171045332-5c9c4ffe-bc8a-4806-9057-c6f6d059a332.png)
