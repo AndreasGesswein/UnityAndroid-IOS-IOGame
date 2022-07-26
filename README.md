@@ -14,6 +14,9 @@ Highscore(Sortieren, Hinzufügen bzw. Löschen):
 (passiert alles automatisch nach dem man gestorben ist)
 ![Screenshot (247)](https://user-images.githubusercontent.com/50133435/171044220-140a031e-cbdb-45fc-8e84-3036ba2bbbc6.png)
 
+Schwierigkeitsgrad auswählen(beinflusst die werte der Npcs)
+![Screenshot (2)](https://user-images.githubusercontent.com/50133435/180895242-7c8352f9-bb55-4ca4-88f4-34fce6d0865b.png)
+
 
 Das Spiel selbst:
 1. Enthält Npc's welche die gleichen Funktionen erledigen können wie der Spieler.
