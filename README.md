@@ -5,14 +5,17 @@ Aktueller Stand des Unity Spiels:
 Alle wichtigen Daten werden mit Json binär verschlüsselt bzw. gespeichert!!!
 
 Werbung:
-![Screenshot (246)](https://user-images.githubusercontent.com/50133435/171042733-f04a8301-7a6e-4b95-9feb-894cc9193584.png)
-![Screenshot (245)](https://user-images.githubusercontent.com/50133435/171043037-6e8684fd-9678-4dd1-9f26-6898627276f5.png)
-
+![Screenshot (7)](https://user-images.githubusercontent.com/50133435/181616068-b0bea663-9879-44b8-a3eb-8697104c2280.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/50133435/181617344-c6f578bc-bf72-4c4f-a718-4c5112058ef3.png)
 
 
 Highscore(Sortieren, Hinzufügen bzw. Löschen):
 (passiert alles automatisch nach dem man gestorben ist)
-![Screenshot (247)](https://user-images.githubusercontent.com/50133435/171044220-140a031e-cbdb-45fc-8e84-3036ba2bbbc6.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/50133435/181617493-f7451d2e-e526-4367-81f8-d41d3241f71f.png)
+
+Tutorial: 
+![Screenshot (5)](https://user-images.githubusercontent.com/50133435/181618331-5cbbc548-220c-48b1-beb1-9f80167679b5.png)
+
 
 Schwierigkeitsgrad auswählen(beinflusst die werte der Npcs)
 ![Screenshot (2)](https://user-images.githubusercontent.com/50133435/180895242-7c8352f9-bb55-4ca4-88f4-34fce6d0865b.png)
